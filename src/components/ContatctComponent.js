@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import { FormGroup, Label, Col, Input, Button, Row } from 'reactstrap';
+import {  Label, Col, Button, Row } from 'reactstrap';
 import {LocalForm, Control} from 'react-redux-form';
 class Contact extends Component {
    
